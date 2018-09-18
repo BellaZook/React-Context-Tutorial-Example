@@ -1,0 +1,82 @@
+code {
+  font-size: 1rem;
+}
+
+button {
+  background-color: green;
+  padding: 10px;
+  color: white;
+  font-size: 1rem;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.code-block {
+  background-color: #eee;
+  max-width: 700px;
+  padding: 10px;
+  margin: 0;
+}
+
+.file {
+  border: 3px double black;
+  padding: 10px;
+  margin: 20px;
+  max-width: 750px;
+}
+
+.file-container {
+  padding: 10px;
+}
+
+.parent,
+.child4,
+.child3,
+.child2,
+.child1 {
+  padding: 10px;
+  border: 3px solid blue;
+}
+
+.red {
+  color: red;
+
+}
+
+.blue {
+  color: blue;
+}
+
+.purple {
+  color: purple;
+}
+
+.green {
+  color: green;
+}
+
+.black {
+  color: black;
+}
+
+.orange {
+  color: orange;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.border-blue {
+  border: solid blue 2px;
+}
+
+.border-green {
+  border: solid green 2px;
+}
+
+.border-black {
+  border: solid black 2px;
+}
